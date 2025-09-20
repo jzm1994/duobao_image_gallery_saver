@@ -25,6 +25,7 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
 android {
+    namespace 'com.duobao9.app.image_gallery_saver'
     compileSdkVersion 30
 
     sourceSets {

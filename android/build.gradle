@@ -2,6 +2,7 @@ group 'com.example.imagegallerysaver'
 version '1.0-SNAPSHOT'
 
 buildscript {
+    namespace 'com.duobao9.app.image_gallery_saver'
     ext.kotlin_version = '1.7.10'
     repositories {
         google()
